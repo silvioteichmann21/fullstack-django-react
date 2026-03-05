@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcelovicentegc/django-react-typescript.git"
+    "url": "git+https://github.com/silvioteichmann21/fullstack-django-react.git"
   },
   "author": "Marcelo Cardoso",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcelovicentegc/django-react-typescript/issues"
+    "url": "https://github.com/silvioteichmann21/django-react-typescript/issues"
   },
-  "homepage": "https://github.com/marcelovicentegc/django-react-typescript#readme",
+  "homepage": "https://github.com/silvioteichmann21/django-react-typescript#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",

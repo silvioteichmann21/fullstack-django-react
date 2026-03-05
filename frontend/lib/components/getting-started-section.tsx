@@ -70,7 +70,7 @@ export function GettingStartedSection(props: Props) {
           color="gray"
           onClick={() =>
             window.open(
-              "https://github.com/marcelovicentegc/django-react-typescript#setting-up-a-database"
+              "https://github.com/silvioteichmann21/django-react-typescript#setting-up-a-database"
             )
           }
         >

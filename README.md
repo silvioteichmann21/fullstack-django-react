@@ -214,8 +214,3 @@ flowchart TD
     style subgraph_3hmsyzvqm stroke:#000000
 ```
 
-## Similar projects
-
-React and Django are a great combination, and there are many projects out there that leverage the best of both worlds. Make sure to check them out if you're looking for a more opinionated boilerplate/different approach:
-
-- [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate)
